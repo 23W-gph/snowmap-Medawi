@@ -1,12 +1,24 @@
 h1.jumbo {
     color: red;
-
   }
 
   h1#key-visual {
       background:green
     }
-      
-    
 
+      table{
+        margin: 100px;
+      }
+
+      td{ padding: 20px;
+        border: 1px solid black;
+      }
     
+b{
+  display: block;
+}
+  ol#menu li{
+    display: block;
+    float: left;
+
+  }  
